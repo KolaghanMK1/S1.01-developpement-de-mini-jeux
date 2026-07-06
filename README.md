@@ -1,4 +1,4 @@
-# 🎮 Dev_menu_jeux — Plateforme de mini-jeux en console (C++)
+# Dev_menu_jeux — Plateforme de mini-jeux en console (C++)
 
 > SAE Développement — BUT Informatique
 > Auteur principal : **Bardoux Théo** · Équipe : Condamine Thibault, Morin Warren
@@ -13,7 +13,7 @@ Le but de ce projet était de développer une plateforme console regroupant plus
 
 ## Sommaire
 
-- [🎮 Dev\_menu\_jeux — Plateforme de mini-jeux en console (C++)](#-dev_menu_jeux--plateforme-de-mini-jeux-en-console-c)
+- [Dev\_menu\_jeux — Plateforme de mini-jeux en console (C++)](#dev_menu_jeux--plateforme-de-mini-jeux-en-console-c)
   - [Sommaire](#sommaire)
   - [Aperçu](#aperçu)
   - [Fonctionnalités](#fonctionnalités)
@@ -148,7 +148,7 @@ g++ -std=c++17 -O2 -o game \
 game.exe      # Windows
 ```
 
-⚠️ Lancez l'exécutable **depuis la racine du dépôt** (là où se trouve le dossier `ascii_art/`), sinon les rendus ASCII ne se chargeront pas.
+Lancez l'exécutable **depuis la racine du dépôt** (là où se trouve le dossier `ascii_art/`), sinon les rendus ASCII ne se chargeront pas.
 
 ## Utilisation
 
