@@ -187,5 +187,5 @@ doxygen Doxyfile
 Projet réalisé dans le cadre d'une SAE Développement (BUT Informatique) par **Maelstrom studio** :
 
 - **Bardoux Théo** — développeur principal : architecture globale, menu, moteur TUI, noyau de cartes, jeu "The War", saisie sécurisée, compatibilité Windows.
-- **Condamine Thibault** — jeu Chifoumi.
+- **[Condamine Thibault](https://renardoh58.github.io/portfolio/)** — jeu Chifoumi.
 - **Morin Warren** — jeu Pendu.
